@@ -1,0 +1,11 @@
+streamlit
+PyPDF2
+ragas
+datasets
+langchain
+langchain-community
+pypdf
+docx2txt
+langchain_openai
+chromadb
+faiss-cpu
