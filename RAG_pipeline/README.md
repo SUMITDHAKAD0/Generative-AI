@@ -5,7 +5,7 @@
 
 ### STEP 01- Clone this repository
 ```bash
-git clone https://github.com/SUMITDHAKAD0/Generative-AI-LLMs.git
+git clone https://github.com/SUMITDHAKAD0/Generative-AI.git
 ```
 
 ### STEP 02- Create a conda environment after opening the repository
@@ -30,4 +30,4 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-![Interface](https://github.com/sample.png)
+![Interface](https://github.com/SUMITDHAKAD0/Generative-AI/blob/main/RAG_pipeline/sample.png)
