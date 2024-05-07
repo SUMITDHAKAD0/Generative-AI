@@ -1,4 +1,4 @@
-# Language_translation
+# RAG Pipeline with Evaluation Metrics
 
 # How to run?
 ### STEPS:
@@ -30,4 +30,4 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-![Interface](https://github.com/github.png)
+![Interface](https://github.com/sample.png)
